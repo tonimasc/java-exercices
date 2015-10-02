@@ -3,6 +3,13 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arboles-java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exceptions-binary" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exceptions-text" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/interfaces-java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/syncro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tcp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/threads" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/udp" charset="UTF-8" />
   </component>
 </project>

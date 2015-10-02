@@ -23,13 +23,27 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="arboles-java" />
+        <module name="chat" />
+        <module name="exceptions-binary" />
+        <module name="exceptions-text" />
         <module name="interfaces-java" />
+        <module name="syncro" />
+        <module name="tcp" />
+        <module name="threads" />
+        <module name="udp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="arboles-java" target="1.5" />
+      <module name="chat" target="1.5" />
+      <module name="exceptions-binary" target="1.5" />
+      <module name="exceptions-text" target="1.5" />
       <module name="interfaces-java" target="1.5" />
       <module name="java-exercices" target="1.5" />
+      <module name="syncro" target="1.5" />
+      <module name="tcp" target="1.5" />
+      <module name="threads" target="1.5" />
+      <module name="udp" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

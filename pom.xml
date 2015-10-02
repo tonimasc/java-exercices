@@ -8,6 +8,13 @@
   <modules>
     <module>arboles-java</module>
     <module>interfaces-java</module>
+    <module>threads</module>
+    <module>exceptions-binary</module>
+    <module>exceptions-text</module>
+    <module>syncro</module>
+    <module>tcp</module>
+    <module>udp</module>
+    <module>chat</module>
   </modules>
   <packaging>pom</packaging>
 

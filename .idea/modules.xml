@@ -3,8 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/arboles-java/arboles-java.iml" filepath="$PROJECT_DIR$/arboles-java/arboles-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat/chat.iml" filepath="$PROJECT_DIR$/chat/chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions-binary/exceptions-binary.iml" filepath="$PROJECT_DIR$/exceptions-binary/exceptions-binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions-text/exceptions-text.iml" filepath="$PROJECT_DIR$/exceptions-text/exceptions-text.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaces-java/interfaces-java.iml" filepath="$PROJECT_DIR$/interfaces-java/interfaces-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-exercices.iml" filepath="$PROJECT_DIR$/java-exercices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/syncro/syncro.iml" filepath="$PROJECT_DIR$/syncro/syncro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tcp/tcp.iml" filepath="$PROJECT_DIR$/tcp/tcp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threads/threads.iml" filepath="$PROJECT_DIR$/threads/threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udp/udp.iml" filepath="$PROJECT_DIR$/udp/udp.iml" />
     </modules>
   </component>
 </project>
